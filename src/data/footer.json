@@ -1,0 +1,66 @@
+{
+    "footerLogo": "assets/img/logo/logo-light.png",
+    "footerDesc": "Lorem ipsum dolor sit amet consect adipisici elit, sed do eiusmod tempor incididuk ut labore et dolore magna aliqua Ut enim 126",
+    "footerLinkTitleOne": "BeHerbe",
+    "navListOne": [
+        {
+            "navTitle": "Qui Somme Nous",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Offers & Promotion",
+            "navUrl": "/blog-left-sidebar" 
+        },
+        {
+            "navTitle": "Nous Produit",
+            "navUrl": "/project" 
+        },
+        {
+            "navTitle": "Contactez-Nous",
+            "navUrl": "/contact" 
+        }
+    ],
+    "footerLinkTitleTwo": "Nos Categories",
+    "navListTwo": [
+        {
+            "navTitle": "Produit de la Ruche",
+            "navUrl": "/service" 
+        },
+        {
+            "navTitle": "Plante Medicinale",
+            "navUrl": "/project" 
+        },
+        {
+            "navTitle": "Arommatherapie",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Gemmotherapie",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Cosmetique Bio",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Compliment Alimentaire",
+            "navUrl": "/" 
+        }
+    ],
+    "footerContactWidget": {
+        "widgetTitle": "contactez-nous",
+        "widgetDesc": "Rue Brederode 16, 1000 Bruxelles, Belgium",
+        "contactInfo": [
+            {
+                "title": "<span>P:</span>+ 32 25 51 20 20"
+            },
+            {
+                "title": "<span>F:</span>+32 25 51 20 20"
+            },
+            {
+                "title": "<span>E:</span>Beherbe@email.com"
+            }
+        ]
+    }
+
+}
